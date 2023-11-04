@@ -95,14 +95,20 @@ body {
 
 @media only screen and (max-width: 768px) {
   .project-grid {
+    gap: 8px;
     grid-template-areas:
       'eth eth'
       'alphabet alphabet'
       'traveler traveler'
-      'astro cube'
+      'cube cube'
+      'astro astro'
       'insta insta'
       'cup cup'
       'foam foam'
       'dimensional dimensional';
+  }
+
+  .project .overlay {
+    font-size: 18px;
   }
 }
