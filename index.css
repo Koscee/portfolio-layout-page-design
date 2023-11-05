@@ -54,6 +54,30 @@ body {
   border-radius: 10px;
 }
 
+.mobile-nav {
+  width: 80px;
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  right: 0;
+  font-size: 14px;
+}
+.mobile-nav img {
+  width: 20px;
+  height: 20px;
+}
+.mobile-nav a {
+  text-decoration: none;
+  color: black;
+  margin: 16px 0;
+}
+
 .project-grid {
   display: grid;
   grid-template-areas:
