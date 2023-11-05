@@ -14,6 +14,10 @@ The images folder contains some `.avif` images. Most browsers don't support `.av
 
 <img src="docs/screenshots/tablet-size.jpg" alt="tablet_size" />
 
-### Mobile View
+### Mobile View (With Sidebar Closed)
 
-<img src="docs/screenshots/mobile-size.jpg" alt="mobile_size" />
+<img src="docs/screenshots/mobile-size-closed-sidebar.jpg" alt="mobile_size" />
+
+### Mobile View (With Sidebar Opened)
+
+<img src="docs/screenshots/mobile-size-open-sidebar.jpg" alt="mobile_size" />
